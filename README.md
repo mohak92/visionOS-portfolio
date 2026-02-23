@@ -4,9 +4,9 @@ A collection of visionOS projects exploring spatial computing on Apple Vision Pr
 
 ## Projects
 
-| Project | Description |
-|---------|-------------|
-| [MetalCube](MetalCube/) | A volumetric window app using Metal shaders and RealityKit to render a cube in 3D space. |
+| Project | Description | Demo |
+|---------|-------------|-------------|
+| [MetalCube](MetalCube/) | A volumetric window app using Metal shaders and RealityKit to render a cube in 3D space. | [Demo](https://www.youtube.com) |
 
 ## Requirements
 
